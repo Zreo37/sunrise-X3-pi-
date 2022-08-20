@@ -15,7 +15,8 @@ https://m.tb.cn/h.fAwoDsJ?tk=P8lx2GRlHAt
 
 https://m.tb.cn/h.UaGnE1x?tk=hlLN2GRmAyl
 
-https://m.tb.cn/h.fzA4c0t?tk=Pc1a2GRmtfm（买这个需要买散热粘胶，不买这个可以直接用原装散热，散热粘胶链接https://m.tb.cn/h.UZuQyOi?tk=R1mA2GRN7zm）
+https://m.tb.cn/h.fzA4c0t?tk=Pc1a2GRmtfm
+（买这个需要买散热粘胶，不买这个可以直接用原装散热，散热粘胶链接https://m.tb.cn/h.UZuQyOi?tk=R1mA2GRN7zm）
 
 4.RGB风扇：40*40*10 5VRGB风扇一个
 
@@ -27,8 +28,9 @@ https://m.tb.cn/h.fAwqsQ3?tk=FVtK2GRNMNH
 
 6.3D打印外壳
 
-（所需文件放在附件里）
+（所需文件在文件夹里）
 
 7.切割亚克力两个侧板
+我用的是2mm的透明亚克力板，对应螺钉M2*5螺钉 8个，要是更改亚克力厚度，记得更换对应长度的螺钉
 
-（所需文件放在附件里）
+（所需文件在文件夹里）
